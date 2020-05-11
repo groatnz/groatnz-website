@@ -26,108 +26,88 @@ self.addEventListener('message', (event) => {
  */
 self.__precacheManifest = [
   {
-    "url": "/_next/static/chunks/2deaa952686b58680fd6d6666460a41d536eade5.5bbdc593d9d01ec616ca.js",
-    "revision": "46ad68ebec6f4114548b720bf851cabf"
+    "url": "/_next/static/chunks/4a4a0ec384f8d7e9b3dc0893566854b9b19d420c.ed9d87f80730ddce5554.js",
+    "revision": "c626393d0815693bc57f8636ff4844a7"
   },
   {
-    "url": "/_next/static/chunks/framework.934881a8a2d3672acc22.js",
-    "revision": "8dbfd54516c12914d3e0cd417cd67882"
+    "url": "/_next/static/chunks/framework.c8d289f8b96717e32d7a.js",
+    "revision": "f5aa0662c1046db91fee1a246690982b"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/_buildManifest.js",
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/_buildManifest.js",
     "revision": "fb96ae7926f5104f50f0cf1b3a23a9b5"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/_ssgManifest.js",
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/_ssgManifest.js",
     "revision": "abee47769bf307639ace4945f9cfd4ff"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/pages/_app.js",
-    "revision": "0b48eef32f2fb341d8563c7b0aa10c64"
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/_app.js",
+    "revision": "7f34e037db2ad880864c26c3b63578c0"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/pages/_error.js",
-    "revision": "c56a093b4c5db1cd49aa0736b3a3a85e"
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/_error.js",
+    "revision": "349ad5fae83ab7ccc8dfb49f3254e02d"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/pages/index.js",
-    "revision": "b10bdf365522469d7258057610e4c55c"
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/index.js",
+    "revision": "342e442381df9ac142466e3a05497ba2"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/pages/quotes.js",
-    "revision": "70efa7403dac0c495be8c78aa4125f4c"
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/quotes.js",
+    "revision": "1dd196e9ab471cddfef0e65473ec6c2d"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/pages/resume.js",
-    "revision": "81738b0cffeb718d17e2bbc78198ef32"
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/resume.js",
+    "revision": "fb0d487be024179bd9cd9cae63e3178f"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/pages/sfia-skills.js",
-    "revision": "89cc0813eacd89b49bd287ec3aaa6515"
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/sfia-skills.js",
+    "revision": "9a5e3533e9003193967951f127fc3b30"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/pages/tech-skills.js",
-    "revision": "641ad29eedb53182d741ebe5230434b7"
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/tech-skills.js",
+    "revision": "090149b3e872479873487fa604a10ae6"
   },
   {
-    "url": "/_next/static/KUdV2fEarGOYpW-FUlXCZ/pages/timeline.js",
-    "revision": "5bee926be36109736877edd868228d96"
+    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/timeline.js",
+    "revision": "0546185f5d1a9abb7631bf01de5f484f"
   },
   {
-    "url": "/_next/static/runtime/main-378ad59ce36a06873042.js",
-    "revision": "485a90d0c307e7033cde748e221ee851"
+    "url": "/_next/static/runtime/main-c813c3cd4130941a05f5.js",
+    "revision": "763cd91ff542e0e565f9d09ffa2441c1"
   },
   {
-    "url": "/_next/static/runtime/polyfills-16ccf9440fd1c9275fd4.js",
+    "url": "/_next/static/runtime/polyfills-19c51f1d429240f27e5c.js",
     "revision": "f6832bdfcecd382f46a3d81235590c4d"
   },
   {
-    "url": "/_next/static/runtime/webpack-b65cab0b00afd201cbda.js",
+    "url": "/_next/static/runtime/webpack-c212667a5f965e81e004.js",
     "revision": "f5e6e2fca3144cc944812cfa3547f475"
   },
   {
     "url": "/404.html",
-    "revision": "cb4fdb88f56426b3d3f5dbdf7c600455"
+    "revision": "89b211243ea02871277f64b448b10974"
   },
   {
     "url": "/index.html",
-    "revision": "e8846f5d3eb9bdadaf7bf20f680ca366"
+    "revision": "4098ccf4ee8917b51ba310aa418297ac"
   },
   {
     "url": "/quotes.html",
-    "revision": "7ae4bd4efe54f8bef09c0fe6a1a6b8d9"
+    "revision": "3cdff8efcfcda2e6a349a959ae06be05"
   },
   {
     "url": "/resume.html",
-    "revision": "b8789ccaf82f7dee80e57c91e729017c"
+    "revision": "dc9bb201a0193e87373a25657138aeb7"
   },
   {
     "url": "/sfia-skills.html",
-    "revision": "a28833ea67ae78f54280263753518716"
+    "revision": "86b1346efcd6f4552995571cc17a0f8a"
   },
   {
     "url": "/static/css/hamburgers.css",
     "revision": "2aeedfb434a3ba8aa3dc175010f1bbf6"
-  },
-  {
-    "url": "/static/images/favicon-180.png",
-    "revision": "6083624a8ae0e68a575b6f328173c9a6"
-  },
-  {
-    "url": "/static/images/favicon-192.png",
-    "revision": "5638a022d4528b29d9f9e92e4ca92000"
-  },
-  {
-    "url": "/static/images/favicon-256.png",
-    "revision": "23c3185780f187e39491dad4b6d97fb9"
-  },
-  {
-    "url": "/static/images/favicon-512.png",
-    "revision": "d00498c7a7b25f29ec43f343aa78f181"
-  },
-  {
-    "url": "/static/images/favicon.ico",
-    "revision": "b0b4a82aed9ad5b0c0de958324c053ac"
   },
   {
     "url": "/static/images/hashtag.png",
@@ -155,11 +135,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/tech-skills.html",
-    "revision": "b4fc878860991647cc5705007037783d"
+    "revision": "a081235e8880ebf52525e2115a4911e7"
   },
   {
     "url": "/timeline.html",
-    "revision": "722991d676b2453b0bb4116df8d10574"
+    "revision": "fb4d44a5f25959aae2cccf0d00ffe870"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
