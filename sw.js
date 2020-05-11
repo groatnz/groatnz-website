@@ -26,52 +26,52 @@ self.addEventListener('message', (event) => {
  */
 self.__precacheManifest = [
   {
-    "url": "/_next/static/chunks/4a4a0ec384f8d7e9b3dc0893566854b9b19d420c.ed9d87f80730ddce5554.js",
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/_buildManifest.js",
+    "revision": "fb96ae7926f5104f50f0cf1b3a23a9b5"
+  },
+  {
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/_ssgManifest.js",
+    "revision": "abee47769bf307639ace4945f9cfd4ff"
+  },
+  {
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/pages/_app.js",
+    "revision": "7f34e037db2ad880864c26c3b63578c0"
+  },
+  {
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/pages/_error.js",
+    "revision": "349ad5fae83ab7ccc8dfb49f3254e02d"
+  },
+  {
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/pages/index.js",
+    "revision": "342e442381df9ac142466e3a05497ba2"
+  },
+  {
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/pages/quotes.js",
+    "revision": "1dd196e9ab471cddfef0e65473ec6c2d"
+  },
+  {
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/pages/resume.js",
+    "revision": "fb0d487be024179bd9cd9cae63e3178f"
+  },
+  {
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/pages/sfia-skills.js",
+    "revision": "9a5e3533e9003193967951f127fc3b30"
+  },
+  {
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/pages/tech-skills.js",
+    "revision": "090149b3e872479873487fa604a10ae6"
+  },
+  {
+    "url": "/_next/static/36au9bOQHhHNjShwqe0Ly/pages/timeline.js",
+    "revision": "0546185f5d1a9abb7631bf01de5f484f"
+  },
+  {
+    "url": "/_next/static/chunks/8f7c4d8ce2c7df4cc0bf160d616449143ff9a01f.ed9d87f80730ddce5554.js",
     "revision": "c626393d0815693bc57f8636ff4844a7"
   },
   {
     "url": "/_next/static/chunks/framework.c8d289f8b96717e32d7a.js",
     "revision": "f5aa0662c1046db91fee1a246690982b"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/_buildManifest.js",
-    "revision": "fb96ae7926f5104f50f0cf1b3a23a9b5"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/_ssgManifest.js",
-    "revision": "abee47769bf307639ace4945f9cfd4ff"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/_app.js",
-    "revision": "7f34e037db2ad880864c26c3b63578c0"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/_error.js",
-    "revision": "349ad5fae83ab7ccc8dfb49f3254e02d"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/index.js",
-    "revision": "342e442381df9ac142466e3a05497ba2"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/quotes.js",
-    "revision": "1dd196e9ab471cddfef0e65473ec6c2d"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/resume.js",
-    "revision": "fb0d487be024179bd9cd9cae63e3178f"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/sfia-skills.js",
-    "revision": "9a5e3533e9003193967951f127fc3b30"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/tech-skills.js",
-    "revision": "090149b3e872479873487fa604a10ae6"
-  },
-  {
-    "url": "/_next/static/EV3xpXqS0NNzzb6VhpfAF/pages/timeline.js",
-    "revision": "0546185f5d1a9abb7631bf01de5f484f"
   },
   {
     "url": "/_next/static/runtime/main-c813c3cd4130941a05f5.js",
@@ -87,23 +87,23 @@ self.__precacheManifest = [
   },
   {
     "url": "/404.html",
-    "revision": "89b211243ea02871277f64b448b10974"
+    "revision": "200cd3069d8b6554cbd7ace3a54e42ab"
   },
   {
     "url": "/index.html",
-    "revision": "4098ccf4ee8917b51ba310aa418297ac"
+    "revision": "76d67489458118151faf1200be7789c9"
   },
   {
     "url": "/quotes.html",
-    "revision": "3cdff8efcfcda2e6a349a959ae06be05"
+    "revision": "7ac7856177e8cf261d4b35ede4497dcd"
   },
   {
     "url": "/resume.html",
-    "revision": "dc9bb201a0193e87373a25657138aeb7"
+    "revision": "8e6b098aadca9433da6261424245db23"
   },
   {
     "url": "/sfia-skills.html",
-    "revision": "86b1346efcd6f4552995571cc17a0f8a"
+    "revision": "e77854529b5ce4c6f489fae8d78fb51a"
   },
   {
     "url": "/static/css/hamburgers.css",
@@ -135,11 +135,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/tech-skills.html",
-    "revision": "a081235e8880ebf52525e2115a4911e7"
+    "revision": "36883ee9e7317a659833b6b1c7c53911"
   },
   {
     "url": "/timeline.html",
-    "revision": "fb4d44a5f25959aae2cccf0d00ffe870"
+    "revision": "3224c078fc281521f182d716d5b132da"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
