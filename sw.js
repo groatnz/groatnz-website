@@ -26,7 +26,7 @@ self.addEventListener('message', (event) => {
  */
 self.__precacheManifest = [
   {
-    "url": "/_next/static/chunks/3a53dfab5f39e6ada5d1b140bdbaa6a77e778f95.5bbdc593d9d01ec616ca.js",
+    "url": "/_next/static/chunks/b7d318dd42d034cedf07cd490ff5b8dcc5be3031.5bbdc593d9d01ec616ca.js",
     "revision": "46ad68ebec6f4114548b720bf851cabf"
   },
   {
@@ -34,43 +34,43 @@ self.__precacheManifest = [
     "revision": "8dbfd54516c12914d3e0cd417cd67882"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/_buildManifest.js",
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/_buildManifest.js",
     "revision": "fb96ae7926f5104f50f0cf1b3a23a9b5"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/_ssgManifest.js",
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/_ssgManifest.js",
     "revision": "abee47769bf307639ace4945f9cfd4ff"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/pages/_app.js",
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/pages/_app.js",
     "revision": "0b48eef32f2fb341d8563c7b0aa10c64"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/pages/_error.js",
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/pages/_error.js",
     "revision": "c56a093b4c5db1cd49aa0736b3a3a85e"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/pages/index.js",
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/pages/index.js",
     "revision": "b10bdf365522469d7258057610e4c55c"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/pages/quotes.js",
-    "revision": "a225925f38a708534023c4947937805a"
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/pages/quotes.js",
+    "revision": "70efa7403dac0c495be8c78aa4125f4c"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/pages/resume.js",
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/pages/resume.js",
     "revision": "81738b0cffeb718d17e2bbc78198ef32"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/pages/sfia-skills.js",
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/pages/sfia-skills.js",
     "revision": "89cc0813eacd89b49bd287ec3aaa6515"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/pages/tech-skills.js",
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/pages/tech-skills.js",
     "revision": "641ad29eedb53182d741ebe5230434b7"
   },
   {
-    "url": "/_next/static/oGAQjZy0zOesMAM1xSlst/pages/timeline.js",
+    "url": "/_next/static/rsXTrXB-UPNXWQiWud7eJ/pages/timeline.js",
     "revision": "5bee926be36109736877edd868228d96"
   },
   {
@@ -87,23 +87,23 @@ self.__precacheManifest = [
   },
   {
     "url": "/404.html",
-    "revision": "ee9e9e204e89c23149ca2d8e1064ba6d"
+    "revision": "1410586680192e8fb93f92f4024ea6d4"
   },
   {
     "url": "/index.html",
-    "revision": "2e1cddd79f6ec571bdb486c42afdfaaf"
+    "revision": "bf0996397cc45c0d22f3eb3e0d8589c0"
   },
   {
     "url": "/quotes.html",
-    "revision": "29d30d1f373b2776112569fd45607b98"
+    "revision": "8618ee99eede20a893c3c005d21b5bb4"
   },
   {
     "url": "/resume.html",
-    "revision": "4af93784b70b5b9475689cc4ebf84ea7"
+    "revision": "cac2dc903fe9522afff58bc6a4223ce6"
   },
   {
     "url": "/sfia-skills.html",
-    "revision": "398137c1aa4b8f954031d0749ad29f75"
+    "revision": "c6d3af20f17e8cc3761ca6a1b91b9b03"
   },
   {
     "url": "/static/css/hamburgers.css",
@@ -155,11 +155,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/tech-skills.html",
-    "revision": "19ae9c239512436d92438ab7039b23c3"
+    "revision": "ef2f31f80cdefae724a1db446fcb755c"
   },
   {
     "url": "/timeline.html",
-    "revision": "f6e91977ec3fc8a988838b9f37e233db"
+    "revision": "f908471d8204506e2b7b74999f5d5021"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
